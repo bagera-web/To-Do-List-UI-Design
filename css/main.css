@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --Background: `#0B3D2E`;
+  --Cards-Content: `#14532D`;
+  --Primary-Text: `#E5F4EC`;
+  --Secondary-Text: `#A7D6BA`;
+  --Primary-Buttons: `#22C55E`;
+  --Button-Hover: `#16A34A`;
+  --Low-Priority: `#86EFAC`;
+  --Medium-Priority: `#FACC15`;
+  --High-Priority: `#F87171`;
+}
+body {
+  font-family: "Inter", sans-serif;
+  background-color: var(--Background);
+}
